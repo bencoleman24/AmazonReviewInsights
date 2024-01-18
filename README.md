@@ -25,7 +25,7 @@ To generate a report, follow these steps:
 1. Set up your .env file in the project root with your RapidAPI and OpenAI API keys
 2. Run the script
 3. Enter the Amazon product URL when prompted
-4. Enjoy report pdf file in working directory
+4. Enjoy the report pdf file in working directory
 
 ## Limitations and Scope
 
