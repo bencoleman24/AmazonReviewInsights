@@ -3,7 +3,7 @@
 The goal of this project was to speed up, automate, and improve the decision making process of purchasing a product online. 
 
 ## Overview
-This tool efficiently processes and analyzes customer reviews from Amazon products. It leverages state-of-the-art sentiment analysis and data processing techniques to parse through vast amounts of text, extracting the most pertinent information and compiling it into an easily digestible format.
+This tool efficiently processes and analyzes customer reviews from Amazon products. It leverages state of the art sentiment analysis and data processing techniques to parse through vast amounts of text, extracting the most pertinent information and compiling it into an easily digestible format.
 
 ## How It Works
 Inputting an Amazon product link into the Python script initiates a process of fetching and analyzing customer reviews, which then creates an informative and detailed report. This report showcases key insights, sentiment scores, and trends drawn from the review data.
